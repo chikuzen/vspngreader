@@ -47,7 +47,7 @@ LD="gcc"
 STRIP="strip"
 
 CFLAGS="-Wall -Wshadow -std=gnu99 -I."
-LIBS="-lpng -lz"
+LIBS="-lpng12 -lz"
 
 
 for opt; do
