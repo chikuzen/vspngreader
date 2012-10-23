@@ -40,7 +40,7 @@ How to compile:
 
     Therefore, you have to install these libraries at first.
 
-    If you have already installed them, type as follows.
+    If you have already installed them, type as follows.::
 
     $ git clone git://github.com/chikuzen/vspngreader.git
     $ cd ./vspngreader
