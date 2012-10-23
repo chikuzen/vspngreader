@@ -26,7 +26,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
-#include <sys/stat.h>
 
 #include "png.h"
 #include "VapourSynth.h"
